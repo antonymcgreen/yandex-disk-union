@@ -1,0 +1,3 @@
+# login and password for yandex account
+# user:pass
+
